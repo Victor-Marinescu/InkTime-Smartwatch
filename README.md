@@ -12,7 +12,7 @@ Sistemul este organizat în jurul MCU-ului nRF52840, care gestionează comunica�
 ## 2. Bill Of Materials (BOM)
 
 | Componentă | Descriere | Datasheet |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **nRF52840** | MCU Bluetooth 5.4, ARM Cortex-M4 | [Link](https://jlcpcb.com/partdetail/NordicSemicon-NRF52840_QFAA_FR7/C3606653) |
 | **5034802400** | 1.54" E-Paper Display (SPI) | [Link](https://jlcpcb.com/partdetail/MOLEX-5034802400/C122434) |
 | **MAX17048** | Fuel Gauge (Monitorizare Baterie) | [Link](https://jlcpcb.com/partdetail/2777647-MAX17048GT10/C2682616) |
